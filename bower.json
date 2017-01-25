@@ -1,0 +1,22 @@
+{
+  "name": "directive",
+  "homepage": "https://github.com/m-slashe/Directive",
+  "authors": [
+    "Murilo <murilovicen@gmail.com>"
+  ],
+  "description": "",
+  "main": "dist/app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "angular": "^1.6.1"
+  },
+  "files" : ["files/**"]
+}

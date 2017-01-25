@@ -1,0 +1,1 @@
+var testeModule = angular.module('slashe.directive',[]);
